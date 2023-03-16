@@ -1,0 +1,11 @@
+t=2023-03-16T21:00:25+0000 lvl=info msg="no configuration paths supplied"
+t=2023-03-16T21:00:25+0000 lvl=info msg="using configuration at default config path" path=/home/delta2/.config/ngrok/ngrok.yml
+t=2023-03-16T21:00:25+0000 lvl=info msg="open config file" path=/home/delta2/.config/ngrok/ngrok.yml err=nil
+t=2023-03-16T21:00:25+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-03-16T21:00:25+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-03-16T21:00:25+0000 lvl=info msg="client session established" obj=csess id=57653c670762
+t=2023-03-16T21:00:25+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://4370-91-219-234-171.eu.ngrok.io
+t=2023-03-16T21:00:25+0000 lvl=info msg="update available" obj=updater
+t=2023-03-16T21:02:56+0000 lvl=info msg="join connections" obj=join id=9720bc00683d l=127.0.0.1:8080 r=91.219.234.171:9401
+t=2023-03-16T21:02:57+0000 lvl=info msg="join connections" obj=join id=0ad138e26ddb l=127.0.0.1:8080 r=91.219.234.171:9401
+t=2023-03-16T21:07:59+0000 lvl=info msg="join connections" obj=join id=5f034dfcf052 l=127.0.0.1:8080 r=140.82.115.109:41995
