@@ -9,3 +9,4 @@ t=2023-03-16T21:00:25+0000 lvl=info msg="update available" obj=updater
 t=2023-03-16T21:02:56+0000 lvl=info msg="join connections" obj=join id=9720bc00683d l=127.0.0.1:8080 r=91.219.234.171:9401
 t=2023-03-16T21:02:57+0000 lvl=info msg="join connections" obj=join id=0ad138e26ddb l=127.0.0.1:8080 r=91.219.234.171:9401
 t=2023-03-16T21:07:59+0000 lvl=info msg="join connections" obj=join id=5f034dfcf052 l=127.0.0.1:8080 r=140.82.115.109:41995
+t=2023-03-16T21:09:28+0000 lvl=info msg="join connections" obj=join id=516bf471add8 l=127.0.0.1:8080 r=140.82.115.109:59669
